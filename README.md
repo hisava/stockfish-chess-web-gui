@@ -22,7 +22,7 @@ Our mission from this project is to develop a modern responsive free and open so
 
 ## Live Demo
 
-- https://labinatorsolutions.github.io/stockfish-chess-web-gui/implementation-1/index.html
+- https://hisava.github.io/stockfish-chess-web-gui/implementation-1/index.html
 - https://labinatorsolutions.github.io/stockfish-chess-web-gui/implementation-2/index.html
 
 **Note:** The above implementations still require lots of work. Your contribution is always appreciated.
